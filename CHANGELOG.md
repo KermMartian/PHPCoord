@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Removed
+- Support for PHP5.x. Only PHP7.0+ is supported now
 
 ## [2.1] - 2016-09-20
 ### Added
